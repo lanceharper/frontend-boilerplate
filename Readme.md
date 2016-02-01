@@ -1,8 +1,3 @@
-
-# Frontend Boilerplate
-
-A boilerplate of things that mostly shouldn't exist.
-
 ## Contains
 
 - [x] [Webpack](https://webpack.github.io)
@@ -14,7 +9,9 @@ A boilerplate of things that mostly shouldn't exist.
 - [x] [CSS modules](https://github.com/outpunk/postcss-modules)
 - [x] [Rucksack](http://simplaio.github.io/rucksack/docs)
 - [x] [Redux Simple Router](https://github.com/rackt/redux-simple-router)
-- [ ] Redux effects
+- [x] [Redux saga](https://github.com/yelouafi/redux-saga)
+- [x] [ESLint](https://github.com/eslint/eslint)
+- [x] [Tape](https://github.com/substack/tape)
 - [x] TodoMVC example
 
 ## Setup
@@ -28,10 +25,6 @@ $ npm install
 ```
 $ npm start
 ```
-
-## Note
-
-This is just my personal boilerplate, it may or may not be a good fit for your project(s).
 
 # License
 
